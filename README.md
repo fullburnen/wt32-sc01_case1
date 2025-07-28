@@ -1,7 +1,10 @@
-WT32-SC01 Case 1
+# WT32-SC01 Case 1
 
-Case for the Wireless Tag WT32-SC01. Printed on Bambu Lab A1 Mini in PLA.
+Case for the Wireless Tag WT32-SC01. Printed on Bambu Lab A1 Mini in PLA+.
 
 ![Case top](./doc/picture_top.JPG)
 
 ![Case bottom](./doc/picture_bottom.JPG)
+
+## License
+![CC BY-NC-SA 4.0](./doc/by-nc-sa.svg)
